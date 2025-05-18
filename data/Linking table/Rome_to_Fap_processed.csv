@@ -1,0 +1,715 @@
+fap22,famille_pro22,fap87,famille_pro87,rome,rome_label
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1416,"Polyculture, élevage"
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1403,Aide d'élevage agricole et aquacole
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1407,Élevage bovin ou équin
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1408,Élevage d'animaux sauvages ou de compagnie
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1409,Élevage de lapins et volailles
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1410,Élevage ovin ou caprin
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1411,Élevage porcin
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1201,Bûcheronnage et élagage
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1204,Protection du patrimoine naturel
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1205,Sylviculture
+A,"Agriculture, marine, pêche",A0Z,"Agriculteurs, éleveurs, sylviculteurs, bûcherons",A1101,Conduite d'engins d'exploitation agricole et forestière
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1402,Aide agricole de production légumière ou végétale
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1414,Horticulture et maraîchage
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1202,Entretien des espaces naturels
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1203,Entretien des espaces verts
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",F1101,Architecture du BTP*
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1401,Aide agricole de production fruitière ou viticole
+A,"Agriculture, marine, pêche",A1Z,"Maraîchers, jardiniers, viticulteurs",A1405,Arboriculture et viticulture
+A,"Agriculture, marine, pêche",A2Z,Techniciens et cadres de l'agriculture,A1301,Conseil et assistance technique en agriculture
+A,"Agriculture, marine, pêche",A2Z,Techniciens et cadres de l'agriculture,A1302,Contrôle et diagnostic technique en agriculture
+A,"Agriculture, marine, pêche",A2Z,Techniciens et cadres de l'agriculture,A1303,Ingénierie en agriculture et environnement naturel
+A,"Agriculture, marine, pêche",A2Z,Techniciens et cadres de l'agriculture,A1416,"Polyculture, élevage"
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",A1404,Aquaculture
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",A1415,Équipage de la pêche
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",A1417,Saliculture
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",N3102,Équipage de la navigation maritime
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",N3103,Navigation fluviale
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",A1406,Encadrement équipage de la pêche
+A,"Agriculture, marine, pêche",A3Z,"Marins, pêcheurs, aquaculteurs",N3101,Encadrement de la navigation maritime
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1401,Extraction liquide et gazeuse
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1402,Extraction solide
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1701,Construction en béton
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1702,Construction de routes et voies
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1704,Préparation du gros œuvre et des travaux publics
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1705,Pose de canalisations
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",I1502,Intervention en milieu subaquatique
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1501,Montage de structures et de charpentes bois
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1502,Montage de structures métalliques
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1503,Réalisation - installation d'ossatures bois
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1608,Pose de revêtements rigides
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1610,Pose et restauration de couvertures
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1611,Réalisation et restauration de façades
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1613,Travaux d'étanchéité et d'isolation
+B,"Bâtiment, travaux publics",B0Z,"Ouvriers non qualifiés du gros œuvre du bâtiment, des travaux publics, du béton et de l'extraction",F1703,Maçonnerie
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",F1401,Extraction liquide et gazeuse
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",F1402,Extraction solide
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",F1701,Construction en béton
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",F1702,Construction de routes et voies
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",F1705,Pose de canalisations
+B,"Bâtiment, travaux publics",B1Z,"Ouvriers qualifiés des travaux publics, du béton et de l'extraction",I1502,Intervention en milieu subaquatique
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1608,Pose de revêtements rigides
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1611,Réalisation et restauration de façades
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1613,Travaux d'étanchéité et d'isolation
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1703,Maçonnerie
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1612,Taille et décoration de pierres
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1502,Montage de structures métalliques
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1501,Montage de structures et de charpentes bois
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1503,Réalisation - installation d'ossatures bois
+B,"Bâtiment, travaux publics",B2Z,Ouvriers qualifiés du gros œuvre du bâtiment,F1610,Pose et restauration de couvertures
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1601,"Application et décoration en plâtre, stuc et staff"
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1602,Électricité bâtiment
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1603,Installation d'équipements sanitaires et thermiques
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1604,Montage d'agencements
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1605,Montage réseaux électriques et télécoms
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1606,Peinture en bâtiment
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1607,Pose de fermetures menuisées
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,F1609,Pose de revêtements souples
+B,"Bâtiment, travaux publics",B3Z,Ouvriers non qualifiés du second œuvre du bâtiment,H2206,Réalisation de menuiserie bois et tonnellerie
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1603,Installation d'équipements sanitaires et thermiques
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1604,Montage d'agencements
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1607,Pose de fermetures menuisées
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,H2206,Réalisation de menuiserie bois et tonnellerie
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1602,Électricité bâtiment
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1605,Montage réseaux électriques et télécoms
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1601,"Application et décoration en plâtre, stuc et staff"
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1606,Peinture en bâtiment
+B,"Bâtiment, travaux publics",B4Z,Ouvriers qualifiés du second œuvre du bâtiment,F1609,Pose de revêtements souples
+B,"Bâtiment, travaux publics",B5Z,Conducteurs d'engins du bâtiment et des travaux publics,F1301,Conduite de grue
+B,"Bâtiment, travaux publics",B5Z,Conducteurs d'engins du bâtiment et des travaux publics,F1302,Conduite d'engins de terrassement et de carrière
+B,"Bâtiment, travaux publics",B5Z,Conducteurs d'engins du bâtiment et des travaux publics,N1104,Manœuvre et conduite d'engins lourds de manutention
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1107,Mesures topographiques
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1103,Contrôle et diagnostic technique du bâtiment
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1105,Études géologiques
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1106,Ingénierie et études du BTP
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1108,Métré de la construction
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1204,Sécurité et protection santé du BTP
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1104,Dessin BTP
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1201,Conduite de travaux du BTP
+B,"Bâtiment, travaux publics",B6Z,Techniciens et agents de maîtrise du bâtiment et des travaux publics,F1202,Direction de chantier du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1101,Architecture du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1102,Conception aménagement d'espaces intérieurs
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1103,Contrôle et diagnostic technique du bâtiment
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1105,Études géologiques
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1106,Ingénierie et études du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1108,Métré de la construction
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1201,Conduite de travaux du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1202,Direction de chantier du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1203,Direction et ingénierie d'exploitation de gisements et de carrières
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,F1204,Sécurité et protection santé du BTP
+B,"Bâtiment, travaux publics",B7Z,Cadres du bâtiment et des travaux publics,I1101,Direction et ingénierie en entretien infrastructure et bâti
+C,"Électricité, électronique ",C0Z,Ouvriers non qualifiés de l'électricité et de l'électronique,H2601,Bobinage électrique
+C,"Électricité, électronique ",C0Z,Ouvriers non qualifiés de l'électricité et de l'électronique,H2602,Câblage électrique et électromécanique
+C,"Électricité, électronique ",C0Z,Ouvriers non qualifiés de l'électricité et de l'électronique,H2603,"Conduite d'installation automatisée de production électrique, électronique et microélectronique"
+C,"Électricité, électronique ",C0Z,Ouvriers non qualifiés de l'électricité et de l'électronique,H2604,Montage de produits électriques et électroniques
+C,"Électricité, électronique ",C0Z,Ouvriers non qualifiés de l'électricité et de l'électronique,H2605,Montage et câblage électronique
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H1504,Intervention technique en contrôle essai qualité en électricité et électronique
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H2601,Bobinage électrique
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H2602,Câblage électrique et électromécanique
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H2603,"Conduite d'installation automatisée de production électrique, électronique et microélectronique"
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H2604,Montage de produits électriques et électroniques
+C,"Électricité, électronique ",C1Z,Ouvriers qualifiés de l'électricité et de l'électronique,H2605,Montage et câblage électronique
+C,"Électricité, électronique ",C2Z,Techniciens et agents de maîtrise de l'électricité et de l'électronique,H1207,Rédaction technique **
+C,"Électricité, électronique ",C2Z,Techniciens et agents de maîtrise de l'électricité et de l'électronique,H1209,Intervention technique en études et développement électronique
+C,"Électricité, électronique ",C2Z,Techniciens et agents de maîtrise de l'électricité et de l'électronique,H1504,Intervention technique en contrôle essai qualité en électricité et électronique
+C,"Électricité, électronique ",C2Z,Techniciens et agents de maîtrise de l'électricité et de l'électronique,H1202,Conception et dessin produits électriques et électroniques
+C,"Électricité, électronique ",C2Z,Techniciens et agents de maîtrise de l'électricité et de l'électronique,H2501,Encadrement de production de matériel électrique et électronique
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2902,Chaudronnerie - tôlerie
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2903,Conduite d'équipement d'usinage
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2904,Conduite d'équipement de déformation des métaux
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2905,Conduite d'équipement de formage et découpage des matériaux
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2906,Conduite d'installation automatisée ou robotisée de fabrication mécanique
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H2914,Réalisation et montage en tuyauterie
+D,"Mécanique, travail des métaux ",D0Z,Ouvriers non qualifiés travaillant par enlèvement ou formage de métal,H3203,Fabrication de pièces en matériaux composites
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2912,Réglage d'équipement de production industrielle
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2903,Conduite d'équipement d'usinage
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2905,Conduite d'équipement de formage et découpage des matériaux
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2906,Conduite d'installation automatisée ou robotisée de fabrication mécanique
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2908,Modelage de matériaux non métalliques
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H2910,Moulage sable
+D,"Mécanique, travail des métaux ",D1Z,Ouvriers qualifiés travaillant par enlèvement de métal,H3203,Fabrication de pièces en matériaux composites
+D,"Mécanique, travail des métaux ",D2Z,Ouvriers qualifiés travaillant par formage de métal,H2902,Chaudronnerie - tôlerie
+D,"Mécanique, travail des métaux ",D2Z,Ouvriers qualifiés travaillant par formage de métal,H2904,Conduite d'équipement de déformation des métaux
+D,"Mécanique, travail des métaux ",D2Z,Ouvriers qualifiés travaillant par formage de métal,H2911,Réalisation de structures métalliques
+D,"Mécanique, travail des métaux ",D2Z,Ouvriers qualifiés travaillant par formage de métal,H2914,Réalisation et montage en tuyauterie
+D,"Mécanique, travail des métaux ",D2Z,Ouvriers qualifiés travaillant par formage de métal,H2913,Soudage manuel
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H2901,Ajustement et montage de fabrication
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H2909,Montage - assemblage mécanique
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H2911,Réalisation de structures métalliques *
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H2913,Soudage manuel *
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H3401,Conduite de traitement d'abrasion de surface
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H3402,Conduite de traitement par dépôt de surface
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H3403,Conduite de traitement thermique
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,H3404,Peinture industrielle
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,I1603,"Maintenance d'engins de chantier, de levage, manutention et agricoles **"
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,I1604,Mécanique automobile **
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,I1606,Réparation de carrosserie **
+D,"Mécanique, travail des métaux ",D3Z,Ouvriers non qualifiés de la mécanique,I1607,"Réparation de cycles, motocycles et motoculteurs de loisirs **"
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H1506,Intervention technique qualité en mécanique et travail des métaux
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H2901,Ajustement et montage de fabrication
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H2909,Montage - assemblage mécanique
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H3401,Conduite de traitement d'abrasion de surface
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H3402,Conduite de traitement par dépôt de surface
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H3403,Conduite de traitement thermique
+D,"Mécanique, travail des métaux ",D4Z,Ouvriers qualifiés de la mécanique,H3404,Peinture industrielle
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H1506,Intervention technique qualité en mécanique et travail des métaux
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H2908,Modelage de matériaux non métalliques
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H2910,Moulage sable
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H2912,Réglage d'équipement de production industrielle
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H1203,Conception et dessin produits mécaniques
+D,"Mécanique, travail des métaux ",D6Z,Techniciens et agents de maîtrise des industries mécaniques,H2503,Pilotage d'unité élémentaire de production mécanique
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2301,Conduite d'équipement de production chimique ou pharmaceutique
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3201,Conduite d'équipement de formage des plastiques et caoutchoucs
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,A1412,Fabrication et affinage de fromages
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,A1413,Fermentation de boissons alcoolisées
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2101,Abattage et découpe des viandes
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2102,Conduite d'équipement de production alimentaire
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,F1706,Préfabrication en béton industriel
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2801,Conduite d'équipement de transformation du verre
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2803,Façonnage et émaillage en industrie céramique
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2907,Conduite d'installation de production des métaux
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H2203,Conduite d'installation de production de panneaux bois
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3101,Conduite d'équipement de fabrication de papier ou de carton
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3102,Conduite d'installation de pâte à papier
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3301,Conduite d'équipement de conditionnement
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3302,"Opérations manuelles d'assemblage, tri ou emballage"
+E,Industries de process ,E0Z,Ouvriers non qualifiés des industries de process ,H3303,"Préparation de matières et produits industriels (broyage, mélange, …)"
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2701,Pilotage d'installation énergétique et pétrochimique
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2804,"Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats"
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2805,Pilotage d'installation de production verrière
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2301,Conduite d'équipement de production chimique ou pharmaceutique
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3201,Conduite d'équipement de formage des plastiques et caoutchoucs
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3202,Réglage d'équipement de formage des plastiques et caoutchoucs
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,A1412,Fabrication et affinage de fromages
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,A1413,Fermentation de boissons alcoolisées
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2102,Conduite d'équipement de production alimentaire
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2802,Conduite d'installation de production de matériaux de construction
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,F1706,Préfabrication en béton industriel
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2801,Conduite d'équipement de transformation du verre
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2803,Façonnage et émaillage en industrie céramique
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2907,Conduite d'installation de production des métaux
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,B1201,Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,B1602,Réalisation d'objets artistiques et fonctionnels en verre
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H2203,Conduite d'installation de production de panneaux bois
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3101,Conduite d'équipement de fabrication de papier ou de carton
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3102,Conduite d'installation de pâte à papier
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H1201,Expertise technique couleur en industrie
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H1503,Intervention technique en laboratoire d'analyse industrielle
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3301,Conduite d'équipement de conditionnement
+E,Industries de process ,E1Z,Ouvriers qualifiés des industries de process,H3303,"Préparation de matières et produits industriels (broyage, mélange, …)"
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H1210,"Intervention technique en études, recherche et développement"
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H1404,Intervention technique en méthodes et industrialisation
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H1503,Intervention technique en laboratoire d'analyse industrielle
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H1505,Intervention technique en formulation et analyse sensorielle
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H3202,Réglage d'équipement de formage des plastiques et caoutchoucs
+E,Industries de process ,E2Z,Techniciens et agents de maîtrise des industries de process,H2504,Encadrement d'équipe en industrie de transformation
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,B1801,Réalisation d'articles de chapellerie
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,B1802,Réalisation d'articles en cuir et matériaux souples (hors vêtement)
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,B1803,Réalisation de vêtements sur mesure ou en petite série
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,D1206,Réparation d'articles en cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,D1207,Retouches en habillement
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2401,"Assemblage – montage d'articles en cuirs, peaux"
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2402,Assemblage – montage de vêtements et produits textiles
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2403,Conduite de machine de fabrication de produits textiles
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2404,Conduite de machine de production et transformation des fils
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2405,Conduite de machine de textiles nontissés
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2406,Conduite de machine de traitement textile
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2407,Conduite de machine de transformation et de finition des cuirs et peaux
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2408,Conduite de machine d'impression textile
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2409,"Coupe cuir, textile et matériaux souples"
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2410,"Mise en forme, repassage et finitions en industrie textile"
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2411,Montage de prototype cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2413,"Préparation de fils, montage de métiers textiles"
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2414,Préparation et finition d'articles en cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,H2415,Contrôle en industrie du cuir et du textile
+F,"Matériaux souples, bois, industries graphiques ",F0Z,Ouvriers non qualifiés du textile et du cuir,K2201,Blanchisserie industrielle
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2401,"Assemblage – montage d'articles en cuirs, peaux"
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2402,Assemblage – montage de vêtements et produits textiles
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2403,Conduite de machine de fabrication de produits textiles
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2404,Conduite de machine de production et transformation des fils
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2405,Conduite de machine de textiles nontissés
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2406,Conduite de machine de traitement textile
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2407,Conduite de machine de transformation et de finition des cuirs et peaux
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2408,Conduite de machine d'impression textile
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2409,"Coupe cuir, textile et matériaux souples"
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2410,"Mise en forme, repassage et finitions en industrie textile"
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2411,Montage de prototype cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2412,Patronnage - gradation
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2413,"Préparation de fils, montage de métiers textiles"
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2414,Préparation et finition d'articles en cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,H2415,Contrôle en industrie du cuir et du textile
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,K2201,Blanchisserie industrielle
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,B1801,Réalisation d'articles de chapellerie
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,B1802,Réalisation d'articles en cuir et matériaux souples (hors vêtement)
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,B1803,Réalisation de vêtements sur mesure ou en petite série
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,B1804,Réalisation d'ouvrages d'art en fils *
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,D1206,Réparation d'articles en cuir et matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F1Z,Ouvriers qualifiés du textile et du cuir,D1207,Retouches en habillement
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,B1806,Tapisserie - décoration en ameublement
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,H2201,Assemblage d'ouvrages en bois
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,H2202,Conduite d'équipement de fabrication de l'ameublement et du bois
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,H2205,Première transformation de bois d'œuvre
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,H2207,Réalisation de meubles en bois
+F,"Matériaux souples, bois, industries graphiques ",F2Z,Ouvriers non qualifiés du travail du bois et de l'ameublement,H2208,Réalisation d'ouvrages décoratifs en bois
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,B1806,Tapisserie - décoration en ameublement
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,H2207,Réalisation de meubles en bois
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,H2208,Réalisation d'ouvrages décoratifs en bois
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,H2201,Assemblage d'ouvrages en bois
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,H2202,Conduite d'équipement de fabrication de l'ameublement et du bois
+F,"Matériaux souples, bois, industries graphiques ",F3Z,Ouvriers qualifiés du travail du bois et de l'ameublement ,H2205,Première transformation de bois d'œuvre
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1202,Production en laboratoire cinématographique
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1203,Production en laboratoire photographique
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1301,Conduite de machines d'impression
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1302,Conduite de machines de façonnage routage
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1304,Façonnage et routage
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1306,Prépresse
+F,"Matériaux souples, bois, industries graphiques ",F4Z,Ouvriers des industries graphiques,E1307,Reprographie
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",E1303,Encadrement des industries graphiques
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",E1305,Préparation et correction en édition et presse
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",E1308,Intervention technique en industries graphiques
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",H1205,Études – modèles en industrie des matériaux souples
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",H2204,Encadrement des industries de l'ameublement et du bois
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",H2209,Intervention technique en ameublement et bois
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",H2412,Patronnage - gradation
+F,"Matériaux souples, bois, industries graphiques ",F5Z,"Techniciens et agents de maîtrise des matériaux souples, du bois et des industries graphiques",H2505,Encadrement d'équipe ou d'atelier en matériaux souples
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,B1604,Réparation - montage en systèmes horlogers
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1310,Maintenance mécanique industrielle
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1601,Installation et maintenance en nautisme
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1602,Maintenance d'aéronefs
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1605,Mécanique de marine
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1303,Installation et maintenance de distributeurs automatiques
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1309,Maintenance électrique
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1402,Réparation de biens électrodomestiques
+G,Maintenance,G0A,Ouvriers qualifiés de la maintenance,I1203,Maintenance de bâtiments et des locaux
+G,Maintenance,G0B,Ouvriers qualifiés de la réparation automobile,I1606,Réparation de carrosserie
+G,Maintenance,G0B,Ouvriers qualifiés de la réparation automobile,I1603,"Maintenance d'engins de chantier, de levage, manutention et agricoles"
+G,Maintenance,G0B,Ouvriers qualifiés de la réparation automobile,I1604,Mécanique automobile
+G,Maintenance,G0B,Ouvriers qualifiés de la réparation automobile,I1607,"Réparation de cycles, motocycles et motoculteurs de loisirs"
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,A1204,Protection du patrimoine naturel
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,B1604,Réparation - montage en systèmes horlogers
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,H1101,Assistance et support technique client
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,H1208,Intervention technique en études et conception en automatisme
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,H1303,Intervention technique en Hygiène Sécurité Environnement -HSE- industriel
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1301,Installation et maintenance d'ascenseurs
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1302,Installation et maintenance d'automatismes
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1304,Installation et maintenance d'équipements industriels et d'exploitation
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1305,Installation et maintenance électronique
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1306,"Installation et maintenance en froid, conditionnement d'air"
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1307,Installation et maintenance télécoms et courants faibles
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1308,Maintenance d'installation de chauffage
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1309,Maintenance électrique
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1310,Maintenance mécanique industrielle
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1503,Intervention en milieux et produits nocifs
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1601,Installation et maintenance en nautisme
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1602,Maintenance d'aéronefs
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1603,"Maintenance d'engins de chantier, de levage, manutention et agricoles"
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1604,Mécanique automobile
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1605,Mécanique de marine
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1607,"Réparation de cycles, motocycles et motoculteurs de loisirs"
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,K2301,Distribution et assainissement d'eau
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,H1301,Inspection de conformité
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1103,Supervision d'entretien et gestion de véhicules
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,K2306,Supervision d'exploitation éco industrielle
+G,Maintenance,G1Z,Techniciens et agents de maîtrise de la maintenance,I1203,Maintenance de bâtiments et des locaux
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1301,Inspection de conformité
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1505,Intervention technique en formulation et analyse sensorielle
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H2502,Management et ingénierie de production
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,A1204,Protection du patrimoine naturel
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1302,Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1101,Assistance et support technique client
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,I1102,Management et ingénierie de maintenance industrielle
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,K2302,Management et inspection en environnement urbain
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,K2306,Supervision d'exploitation éco industrielle
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1401,Management et ingénierie gestion industrielle et logistique
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1402,Management et ingénierie méthodes et industrialisation
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1501,Direction de laboratoire d'analyse industrielle
+H,Ingénieurs et cadres de l'industrie,H0Z,Ingénieurs et cadres techniques de l'industrie,H1502,Management et ingénierie qualité industrielle
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N1101,Conduite d'engins de déplacement des charges
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N1102,Déménagement
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N1103,Magasinage et préparation de commandes
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N1105,Manutention manuelle de charges
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N2203,Exploitation des pistes aéroportuaires
+J,"Transports, logistique et tourisme",J0Z,Ouvriers non qualifiés de la manutention,N3203,Manutention portuaire
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N1101,Conduite d'engins de déplacement des charges
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N1102,Déménagement
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N1103,Magasinage et préparation de commandes
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N1105,Manutention manuelle de charges
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N2203,Exploitation des pistes aéroportuaires
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N3203,Manutention portuaire
+J,"Transports, logistique et tourisme",J1Z,Ouvriers qualifiés de la manutention,N1302,Direction de site logistique
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,J1305,Conduite de véhicules sanitaires
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4102,Conduite de transport de particuliers
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4103,Conduite de transport en commun sur route
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4104,Courses et livraisons express
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4105,Conduite et livraison par tournées sur courte distance
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,M1603,Distribution de documents *
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4101,Conduite de transport de marchandises sur longue distance
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4301,Conduite sur rails
+J,"Transports, logistique et tourisme",J3Z,Conducteurs de véhicules,N4402,Exploitation et manœuvre des remontées mécaniques
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4401,Circulation du réseau ferré
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4403,Manœuvre du réseau ferré
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4302,Contrôle des transports en commun
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,H1403,Intervention technique en gestion industrielle et logistique
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N1201,Affrètement transport
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N1202,Gestion des opérations de circulation internationale des marchandises
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N1301,Conception et organisation de la chaîne logistique
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N1303,Intervention technique d'exploitation logistique
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N2204,Préparation des vols
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N3201,Exploitation des opérations portuaires et du transport maritime
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N3202,Exploitation du transport fluvial
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4201,Direction d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4202,Direction d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4203,Intervention technique d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J4Z,Agents d'exploitation des transports,N4204,Intervention technique d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,G1201,"Accompagnement de voyages, d'activités culturelles ou sportives"
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N2101,Navigation commerciale aérienne
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N1201,Affrètement transport
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N1202,Gestion des opérations de circulation internationale des marchandises
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,D1204,Location de véhicules ou de matériel de loisirs
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,G1101,Accueil touristique
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,G1303,Vente de voyages
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N2201,Personnel d'escale aéroportuaire
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,G1102,Promotion du tourisme local
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,G1301,Conception de produits touristiques
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N1301,Conception et organisation de la chaîne logistique
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N3201,Exploitation des opérations portuaires et du transport maritime
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N3202,Exploitation du transport fluvial
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N4201,Direction d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N4202,Direction d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N4203,Intervention technique d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J5Z,Agents administratifs et commerciaux des transports et du tourisme,N4204,Intervention technique d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N2202,Contrôle de la navigation aérienne
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N2205,Direction d'escale et exploitation aéroportuaire
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N3201,Exploitation des opérations portuaires et du transport maritime
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N3202,Exploitation du transport fluvial
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N4201,Direction d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N4202,Direction d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N4203,Intervention technique d'exploitation des transports routiers de marchandises
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N4204,Intervention technique d'exploitation des transports routiers de personnes
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N2102,Pilotage et navigation technique aérienne
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",G1302,Optimisation de produits touristiques
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N1301,Conception et organisation de la chaîne logistique
+J,"Transports, logistique et tourisme",J6Z,"Cadres des transports, de la logistique et navigants de l'aviation",N1302,Direction de site logistique
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,A1502,Podologie animale
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,A1503,Toilettage des animaux
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1302,Décoration d'objets d'art et artisanaux
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1303,Gravure - ciselure
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1401,"Réalisation d'objets en lianes, fibres et brins végétaux"
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1402,Reliure et restauration de livres et archives
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1501,Fabrication et réparation d'instruments de musique
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1601,Métallerie d'art
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1603,"Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie"
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,B1701,Conservation et reconstitution d'espèces animales
+K,Artisanat ,K0Z,Artisans et ouvriers artisanaux,D1205,Nettoyage d'articles textiles ou cuirs
+L,"Gestion, administration des entreprises",L0Z,Secrétaires,D1401,Assistanat commercial
+L,"Gestion, administration des entreprises",L0Z,Secrétaires,M1607,Secrétariat
+L,"Gestion, administration des entreprises",L0Z,Secrétaires,M1608,Secrétariat comptable
+L,"Gestion, administration des entreprises",L0Z,Secrétaires,M1609,Secrétariat et assistanat médical ou médico-social
+L,"Gestion, administration des entreprises",L1Z,Employés de la comptabilité,M1203,Comptabilité
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1601,Accueil et renseignements
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1401,Conduite d'enquêtes
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1501,Assistanat en ressources humaines
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1602,Opérations administratives
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1605,Assistanat technique et administratif
+L,"Gestion, administration des entreprises",L2Z,Employés administratifs d'entreprise,M1606,Saisie de données
+L,"Gestion, administration des entreprises",L3Z,Secrétaires de direction,D1401,Assistanat commercial
+L,"Gestion, administration des entreprises",L3Z,Secrétaires de direction,M1604,Assistanat de direction
+L,"Gestion, administration des entreprises",L3Z,Secrétaires de direction,M1607,Secrétariat
+L,"Gestion, administration des entreprises",L3Z,Secrétaires de direction,M1608,Secrétariat comptable
+L,"Gestion, administration des entreprises",L3Z,Secrétaires de direction,M1609,Secrétariat et assistanat médical ou médico-social
+L,"Gestion, administration des entreprises",L4Z,"Techniciens des services administratifs, comptables et financiers",M1404,Management et gestion d'enquêtes
+L,"Gestion, administration des entreprises",L4Z,"Techniciens des services administratifs, comptables et financiers",M1501,Assistanat en ressources humaines
+L,"Gestion, administration des entreprises",L4Z,"Techniciens des services administratifs, comptables et financiers",M1605,Assistanat technique et administratif
+L,"Gestion, administration des entreprises",L4Z,"Techniciens des services administratifs, comptables et financiers",M1203,Comptabilité
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1201,Analyse et ingénierie financière
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1202,Audit et contrôle comptables et financiers
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1203,Comptabilité
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1204,Contrôle de gestion
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1205,Direction administrative et financière
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1206,Management de groupe ou de service comptable
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1207,Trésorerie et financement
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1402,Conseil en organisation et management d'entreprise
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1403,Études et prospectives socio-économiques
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",K1903,Défense et conseil juridique
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",K2101,Conseil en formation
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",K2102,Coordination pédagogique
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1502,Développement des ressources humaines
+L,"Gestion, administration des entreprises",L5Z,"Cadres des services administratifs, comptables et financiers",M1503,Management des ressources humaines
+L,"Gestion, administration des entreprises",L6Z,Dirigeants d'entreprises,M1302,Direction de petite ou moyenne entreprise
+L,"Gestion, administration des entreprises",L6Z,Dirigeants d'entreprises,M1301,Direction de grande entreprise ou d'établissement public
+M,Informatique et télécommunications,M0Z,Employés et opérateurs de l'informatique,M1801,Administration de systèmes d'information
+M,Informatique et télécommunications,M0Z,Employés et opérateurs de l'informatique,M1805,Études et développement informatique
+M,Informatique et télécommunications,M0Z,Employés et opérateurs de l'informatique,M1810,Production et exploitation de systèmes d'information
+M,Informatique et télécommunications,M1Z,Techniciens de l'informatique,M1805,Études et développement informatique
+M,Informatique et télécommunications,M1Z,Techniciens de l'informatique,I1401,Maintenance informatique et bureautique
+M,Informatique et télécommunications,M1Z,Techniciens de l'informatique,M1801,Administration de systèmes d'information
+M,Informatique et télécommunications,M1Z,Techniciens de l'informatique,M1810,Production et exploitation de systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1801,Administration de systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1802,Conseil et maîtrise d'ouvrage en systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1803,Direction des systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1805,Études et développement informatique
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1806,Expertise et support technique en systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1810,Production et exploitation de systèmes d'information
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,I1401,Maintenance informatique et bureautique
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1804,Études et développement de réseaux de télécoms
+M,Informatique et télécommunications,M2Z,Ingénieurs de l'informatique,M1807,Exploitation de systèmes de communication et de commandement
+N,Études et recherche,N0Z,Personnels d'études et de recherche ,H1206,"Management et ingénierie études, recherche et développement industriel"
+N,Études et recherche,N0Z,Personnels d'études et de recherche ,M1808,Information géographique
+N,Études et recherche,N0Z,Personnels d'études et de recherche ,M1809,Information météorologique
+N,Études et recherche,N0Z,Personnels d'études et de recherche ,K2401,Recherche en sciences de l'homme et de la société
+N,Études et recherche,N0Z,Personnels d'études et de recherche ,K2402,"Recherche en sciences de l'univers, de la matière et du vivant"
+P,"Administration publique, professions juridiques, armée et police",P0Z,Employés administratifs de la fonction publique (catégorie C et assimilés),K1501,Application des règles financières publiques
+P,"Administration publique, professions juridiques, armée et police",P1Z,Professions intermédiaires administratives de la fonction publique (catégorie B et assimilés),K1503,Contrôle et inspection des impôts
+P,"Administration publique, professions juridiques, armée et police",P1Z,Professions intermédiaires administratives de la fonction publique (catégorie B et assimilés),K1504,Contrôle et inspection du Trésor Public
+P,"Administration publique, professions juridiques, armée et police",P1Z,Professions intermédiaires administratives de la fonction publique (catégorie B et assimilés),K1505,Protection des consommateurs et contrôle des échanges commerciaux
+P,"Administration publique, professions juridiques, armée et police",P1Z,Professions intermédiaires administratives de la fonction publique (catégorie B et assimilés),K1502,Contrôle et inspection des Affaires Sociales
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1401,Conception et pilotage de la politique des pouvoirs publics
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1403,"Management de structure de santé, sociale ou pénitentiaire"
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1404,Mise en œuvre et pilotage de la politique des pouvoirs publics
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1405,Représentation de l'État sur le territoire national ou international
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1502,Contrôle et inspection des Affaires Sociales
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1503,Contrôle et inspection des impôts
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1504,Contrôle et inspection du Trésor Public
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1505,Protection des consommateurs et contrôle des échanges commerciaux
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1602,Gestion de patrimoine culturel
+P,"Administration publique, professions juridiques, armée et police",P2Z,Cadres de la fonction publique (catégorie A et assimilés),K1802,Développement local
+P,"Administration publique, professions juridiques, armée et police",P3Z,Professionnels du droit (hors juristes en entreprise),K1901,Aide et médiation judiciaire
+P,"Administration publique, professions juridiques, armée et police",P3Z,Professionnels du droit (hors juristes en entreprise),K1902,Collaboration juridique
+P,"Administration publique, professions juridiques, armée et police",P3Z,Professionnels du droit (hors juristes en entreprise),K1904,Magistrature
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1701,Personnel de la Défense
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1705,Sécurité civile et secours
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1706,Sécurité publique
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1707,Surveillance municipale
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1702,Direction de la sécurité civile et des secours
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1703,Direction opérationnelle de la défense
+P,"Administration publique, professions juridiques, armée et police",P4Z,"Armée, police, pompiers ",K1704,Management de la sécurité publique
+Q,Banque et assurances,Q0Z,Employés de la banque et des assurances,C1102,Conseil clientèle en assurances
+Q,Banque et assurances,Q0Z,Employés de la banque et des assurances,C1109,Rédaction et gestion en assurances
+Q,Banque et assurances,Q0Z,Employés de la banque et des assurances,C1201,Accueil et services bancaires
+Q,Banque et assurances,Q0Z,Employés de la banque et des assurances,C1206,Gestion de clientèle bancaire
+Q,Banque et assurances,Q0Z,Employés de la banque et des assurances,C1401,Gestion en banque et assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1201,Accueil et services bancaires
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1202,Analyse de crédits et risques bancaires
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1203,Relation clients banque/finance
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1205,Conseil en gestion de patrimoine financier
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1206,Gestion de clientèle bancaire
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1302,Gestion back et middle-office marchés financiers
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1102,Conseil clientèle en assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1103,Courtage en assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1105,Études actuarielles en assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1106,Expertise risques en assurance
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1107,Indemnisations en assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1109,Rédaction et gestion en assurances
+Q,Banque et assurances,Q1Z,Techniciens de la banque et des assurances,C1110,Souscription d'assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1202,Analyse de crédits et risques bancaires
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1203,Relation clients banque/finance
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1204,Conception et expertise produits bancaires et financiers
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1205,Conseil en gestion de patrimoine financier
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1207,Management en exploitation bancaire
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1301,Front office marchés financiers
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1302,Gestion back et middle-office marchés financiers
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1303,Gestion de portefeuilles sur les marchés financiers
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1101,Conception développement produits d'assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1103,Courtage en assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1104,Direction d'exploitation en assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1105,Études actuarielles en assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1106,Expertise risques en assurance
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1107,Indemnisations en assurances
+Q,Banque et assurances,Q2Z,Cadres de la banque et des assurances,C1108,Management de groupe et de service en assurances
+R,Commerce,R0Z,"Caissiers, employés de libre service",D1501,Animation de vente
+R,Commerce,R0Z,"Caissiers, employés de libre service",D1507,Mise en rayon libre - service
+R,Commerce,R0Z,"Caissiers, employés de libre service",D1505,Personnel de caisse
+R,Commerce,R1Z,Vendeurs,D1105,Poissonnerie
+R,Commerce,R1Z,Vendeurs,D1106,Vente en alimentation
+R,Commerce,R1Z,Vendeurs,D1107,Vente en gros de produits frais
+R,Commerce,R1Z,Vendeurs,D1212,Vente en décoration et équipement du foyer
+R,Commerce,R1Z,Vendeurs,D1201,"Achat vente d'objets d'art, anciens ou d'occasion"
+R,Commerce,R1Z,Vendeurs,D1209,Vente de végétaux
+R,Commerce,R1Z,Vendeurs,D1210,Vente en animalerie
+R,Commerce,R1Z,Vendeurs,D1211,Vente en articles de sport et loisirs
+R,Commerce,R1Z,Vendeurs,D1214,Vente en habillement et accessoires de la personne
+R,Commerce,R1Z,Vendeurs,D1213,Vente en gros de matériel et équipements
+R,Commerce,R1Z,Vendeurs,D1408,Téléconseil et télévente
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1407,Relation technico-commerciale
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1402,Relation commerciale grands comptes et entreprise
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1405,Conseil en information médicale
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1403,Relation commerciale auprès de particuliers
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1404,Relation commerciale en vente de véhicules **
+R,Commerce,R2Z,Attachés commerciaux et représentants,D1501,Animation de vente
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,D1506,Marchandisage
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,D1502,Management/gestion de rayon produits alimentaires
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,D1503,Management/gestion de rayon produits non alimentaires
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,D1508,Encadrement du personnel de caisses
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,M1101,Achats
+R,Commerce,R3Z,Maîtrise des magasins et intermédiaires du commerce,M1102,Direction des achats
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1406,Management en force de vente
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1701,Administration des ventes
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1702,Analyse de tendance
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1703,Management et gestion de produit
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1704,Management relation clientèle
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1705,Marketing
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1707,Stratégie commerciale
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1102,Direction des achats
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1506,Marchandisage
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1101,Achats
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,H1102,Management et ingénierie d'affaires
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,M1706,Promotion des ventes
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1407,Relation technico-commerciale
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1301,Management de magasin de détail
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1504,Direction de magasin de grande distribution
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,D1509,Management de département en grande distribution
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,C1501,Gérance immobilière
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,C1502,Gestion locative immobilière
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,C1503,Management de projet immobilier
+R,Commerce,R4Z,Cadres commerciaux et technico-commerciaux,C1504,Transaction immobilière
+S,"Hôtellerie, restauration, alimentation",S0Z,"Bouchers, charcutiers, boulangers",D1101,Boucherie
+S,"Hôtellerie, restauration, alimentation",S0Z,"Bouchers, charcutiers, boulangers",D1102,Boulangerie - viennoiserie
+S,"Hôtellerie, restauration, alimentation",S0Z,"Bouchers, charcutiers, boulangers",D1103,Charcuterie - traiteur
+S,"Hôtellerie, restauration, alimentation",S0Z,"Bouchers, charcutiers, boulangers",D1104,"Pâtisserie, confiserie, chocolaterie et glacerie"
+S,"Hôtellerie, restauration, alimentation",S0Z,"Bouchers, charcutiers, boulangers",H2101,Abattage et découpe des viandes
+S,"Hôtellerie, restauration, alimentation",S1Z,Cuisiniers,G1603,Personnel polyvalent en restauration
+S,"Hôtellerie, restauration, alimentation",S1Z,Cuisiniers,G1604,Fabrication de crêpes ou pizzas
+S,"Hôtellerie, restauration, alimentation",S1Z,Cuisiniers,G1605,Plonge en restauration
+S,"Hôtellerie, restauration, alimentation",S1Z,Cuisiniers,G1602,Personnel de cuisine
+S,"Hôtellerie, restauration, alimentation",S1Z,Cuisiniers,G1601,Management du personnel de cuisine
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1501,Personnel d'étage
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1502,Personnel polyvalent d'hôtellerie
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1702,Personnel du hall
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1703,Réception en hôtellerie
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1801,"Café, bar brasserie"
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1803,Service en restauration
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1802,Management du service en restauration
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1804,Sommellerie
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1503,Management du personnel d'étage
+S,"Hôtellerie, restauration, alimentation",S2Z,Employés et agents de maîtrise de l'hôtellerie et de la restauration,G1701,Conciergerie en hôtellerie
+S,"Hôtellerie, restauration, alimentation",S3Z,"Patrons et cadres d'hôtels, cafés, restaurants",G1401,Assistance de direction d'hôtel - restaurant
+S,"Hôtellerie, restauration, alimentation",S3Z,"Patrons et cadres d'hôtels, cafés, restaurants",G1402,Management d'hôtel - restaurant
+S,"Hôtellerie, restauration, alimentation",S3Z,"Patrons et cadres d'hôtels, cafés, restaurants",G1403,Gestion de structure de loisirs ou d'hébergement touristique
+S,"Hôtellerie, restauration, alimentation",S3Z,"Patrons et cadres d'hôtels, cafés, restaurants",G1404,Management d'établissement de restauration collective
+T,Services aux particuliers et aux collectivités,T0Z,"Coiffeurs, esthéticiens",D1202,Coiffure
+T,Services aux particuliers et aux collectivités,T0Z,"Coiffeurs, esthéticiens",D1203,Hydrothérapie
+T,Services aux particuliers et aux collectivités,T0Z,"Coiffeurs, esthéticiens",D1208,Soins esthétiques et corporels
+T,Services aux particuliers et aux collectivités,T1Z,Employés de maison,K1304,Services domestiques
+T,Services aux particuliers et aux collectivités,T2A,Aides à domicile et aides ménagères,K1302,Assistance auprès d'adultes
+T,Services aux particuliers et aux collectivités,T2A,Aides à domicile et aides ménagères,K1305,Intervention sociale et familiale
+T,Services aux particuliers et aux collectivités,T2B,Assistantes maternelles,K1303,Assistance auprès d'enfants
+T,Services aux particuliers et aux collectivités,T3Z,Agents de gardiennage et de sécurité,K2501,Gardiennage de locaux
+T,Services aux particuliers et aux collectivités,T3Z,Agents de gardiennage et de sécurité,K2502,Management de sécurité privée
+T,Services aux particuliers et aux collectivités,T3Z,Agents de gardiennage et de sécurité,K2503,Sécurité et surveillance privées
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,I1501,Intervention en grande hauteur
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2202,Lavage de vitres
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2203,Management et inspection en propreté de locaux
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2204,Nettoyage de locaux
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,J1301,Personnel polyvalent des services hospitaliers
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,I1201,Entretien d'affichage et mobilier urbain
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,I1202,Entretien et surveillance du tracé routier
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,I1503,Intervention en milieux et produits nocifs
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2301,Distribution et assainissement d'eau
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2303,Nettoyage des espaces urbains
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2304,Revalorisation de produits industriels
+T,Services aux particuliers et aux collectivités,T4Z,Agents d'entretien,K2305,Salubrité et traitement de nuisibles
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,G1205,Personnel d'attractions ou de structures de loisirs
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,G1206,Personnel technique des jeux
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,K1103,Développement personnel et bien-être de la personne
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,K2601,Conduite d'opérations funéraires
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,K2602,Conseil en services funéraires
+T,Services aux particuliers et aux collectivités,T6Z,Employés des services divers,K2603,Thanatopraxie
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1101,Animation de site multimédia
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1103,Communication
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1107,Organisation d'événementiel
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1401,Développement et promotion publicitaire
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1402,Élaboration de plan média
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1108,"Traduction, interprétariat"
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,L1303,Promotion d'artistes et de spectacles *
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,K1601,Gestion de l'information et de la documentation
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1105,Coordination d'édition
+U,"Communication, information, art et spectacle",U0Z,Professionnels de la communication et de l'information,E1106,Journalisme et information média
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,E1204,Projection cinéma
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1302,"Production et administration spectacle, cinéma et audiovisuel"
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1304,Réalisation cinématographique et audiovisuelle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1501,Coiffure et maquillage spectacle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1502,Costume et Habillage spectacle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1503,Décor et accessoires spectacle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1504,Éclairage spectacle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1505,Image cinématographique et télévisuelle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1506,Machinerie spectacle
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1507,Montage et post-production
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1508,Prise de son et sonorisation
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1509,Régie générale
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,E1201,Photographie
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,B1301,Décoration d'espaces vente
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,B1805,Stylisme
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,E1104,Conception de contenus multimédias
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,E1205,Réalisation de contenus multimédias
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,F1102,Conception aménagement d'espaces intérieurs
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,H1204,Design industriel
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,K2105,Enseignement artistique
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1101,Animation musicale et scénique
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1102,Mannequinat et pose artistique
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1103,Présentation de spectacles ou d'émissions
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1201,Danse
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1202,Musique et chant
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1203,Art dramatique
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1204,Arts du cirque et arts visuels
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,L1301,Mise en scène de spectacles vivants
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,E1102,"Écriture d'ouvrages, de livres"
+U,"Communication, information, art et spectacle",U1Z,Professionnels des arts et des spectacles,B1101,Création en arts plastiques
+V,"Santé, action sociale, culturelle et sportive",V0Z,Aides-soignants,A1501,Aide aux soins animaux
+V,"Santé, action sociale, culturelle et sportive",V0Z,Aides-soignants,J1303,Assistance médico-technique
+V,"Santé, action sociale, culturelle et sportive",V0Z,Aides-soignants,J1304,Aide en puériculture
+V,"Santé, action sociale, culturelle et sportive",V0Z,Aides-soignants,J1501,"Soins d'hygiène, de confort du patient"
+V,"Santé, action sociale, culturelle et sportive",V0Z,Aides-soignants,K1301,Accompagnement médicosocial
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1502,Coordination de services médicaux ou paramédicaux
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1503,Soins infirmiers spécialisés en anesthésie
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1504,Soins infirmiers spécialisés en bloc opératoire
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1505,Soins infirmiers spécialisés en prévention
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1506,Soins infirmiers généralistes
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1507,Soins infirmiers spécialisés en puériculture
+V,"Santé, action sociale, culturelle et sportive",V1Z,"Infirmiers, sages-femmes",J1104,Suivi de la grossesse et de l'accouchement
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,J1101,Médecine de prévention
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,J1102,Médecine généraliste et spécialisée
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,K1402,Conseil en Santé Publique *
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,J1103,Médecine dentaire
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,A1504,Santé animale
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,J1201,Biologie médicale
+V,"Santé, action sociale, culturelle et sportive",V2Z,Médecins et assimilés,J1202,Pharmacie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1302,Analyses médicales
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1306,Imagerie médicale
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1307,Préparation en pharmacie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1401,Audioprothèses
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1405,Optique – lunetterie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1410,Prothèses dentaires
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1411,Prothèses et orthèses
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1402,Diététique
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1403,Ergothérapie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1404,Kinésithérapie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1406,Orthophonie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1407,Orthoptique
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1408,Ostéopathie et chiropraxie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1409,Pédicurie et podologie
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,J1412,Rééducation en psychomotricité
+V,"Santé, action sociale, culturelle et sportive",V3Z,Professions para-médicales,K1104,Psychologie
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1801,Conseil en emploi et insertion socioprofessionnelle
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K2112,Orientation scolaire et professionnelle
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1202,Éducation de jeunes enfants
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1203,Encadrement technique en insertion professionnelle
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1204,Facilitation de la vie sociale
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1207,Intervention socioéducative
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1101,Accompagnement et médiation familiale
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1102,Aide aux bénéficiaires d'une mesure de protection juridique
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1201,Action sociale
+V,"Santé, action sociale, culturelle et sportive",V4Z,Professionnels de l'action sociale et de l'orientation,K1205,Information et médiation sociale
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",G1202,Animation d'activités culturelles ou ludiques
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",G1203,Animation de loisirs auprès d'enfants ou d'adolescents
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",K1206,Intervention socioculturelle
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",G1204,Éducation en activités sportives
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",L1401,Sportif professionnel
+V,"Santé, action sociale, culturelle et sportive",V5Z,"Professionnels de l'action culturelle, sportive et surveillants",K2104,Éducation et surveillance au sein d'établissements d'enseignement
+W,"Enseignement, formation",W0Z,Enseignants,K2106,Enseignement des écoles
+W,"Enseignement, formation",W0Z,Enseignants,K2107,Enseignement général du second degré
+W,"Enseignement, formation",W0Z,Enseignants,K2109,Enseignement technique et professionnel
+W,"Enseignement, formation",W0Z,Enseignants,K2103,Direction d'établissement et d'enseignement
+W,"Enseignement, formation",W0Z,Enseignants,K2108,Enseignement supérieur
+W,"Enseignement, formation",W1Z,Formateurs,K2110,Formation en conduite de véhicules
+W,"Enseignement, formation",W1Z,Formateurs,K2111,Formation professionnelle
