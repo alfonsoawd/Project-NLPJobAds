@@ -1,7 +1,3 @@
-# 🗄️ data README
-
-------------------------------------------------------------------------
-
 ## 🇬🇧 English Version
 
 This `data` directory contains all datasets and auxiliary files required for the Jocas project. Files are organized to facilitate the data processing and analysis workflow.
