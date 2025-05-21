@@ -15,7 +15,7 @@ This project analyzes over six million French job ads from the 2020 JOCAS datase
 
     1.  What are the most common wage-related and non-wage attributes mentioned in French job ads?\
     2.  How does the presence of explicit wage information in an ad affect which attributes are highlighted?\
-    3.  To what extent can variation in advertised attributes be explained by industry sector, geography, and other job characteristics? :contentReference[oaicite:2]{index="2"}:contentReference[oaicite:3]{index="3"}
+    3.  To what extent can variation in advertised attributes be explained by industry sector, geography?
 
 ### Project Structure
 
@@ -49,7 +49,7 @@ Ce projet analyse plus de six millions d’offres d’emploi françaises (base J
 
     1.  Quels sont les attributs liés au salaire et les attributs non salariaux les plus couramment mentionnés ?\
     2.  Comment la mention explicite du salaire dans une annonce influence-t-elle les attributs mis en avant ?\
-    3.  Dans quelle mesure la variation des attributs annoncés s’explique-t-elle par le secteur, la localisation et d’autres caractéristiques de l’emploi ? :contentReference[oaicite:6]{index="6"}:contentReference[oaicite:7]{index="7"}
+    3.  Dans quelle mesure la variation des attributs annoncés s’explique-t-elle par le secteur, la localisation?
 
 ### Structure du projet
 
